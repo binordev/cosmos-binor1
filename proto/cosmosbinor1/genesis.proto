@@ -1,0 +1,11 @@
+syntax = "proto3";
+package binordev.cosmosbinor1.cosmosbinor1;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/binordev/cosmos-binor1/x/cosmosbinor1/types";
+
+// GenesisState defines the cosmosbinor1 module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
